@@ -14,24 +14,7 @@ Winning:
 
 If a player gets three of their symbols in a row, column, or diagonal, they win the game.
 If the game board is full with no winner, it's a tie.<br>
-Running the Game
-## Prerequisites:
 
-Python 3.x installed on your system.
-Running the Game:
-
-Open a terminal.
-
-Navigate to the directory containing the Python script (tictactoe.py).
-
-Run the script using the following command:
-
-Copy code
-python tictactoe.py
-Game Controls:
-
-When prompted, enter the number corresponding to the cell where you want to place your symbol (1-9).
-Follow the on-screen instructions to continue playing until the game ends.
 ## Notes
 This game does not have any graphical interface and runs in the command line.
 The game automatically detects winning combinations and announces the winner or a tie.
