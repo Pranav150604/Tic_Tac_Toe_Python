@@ -9,11 +9,11 @@ The game board consists of a 3x3 grid. Each cell can be empty (' '), marked by p
 Gameplay:
 
 Players take turns marking empty cells with their symbol (X or O).
-The game ends when one player gets three of their symbols in a row, column, or diagonal, or when the game board is full with no winner (tie).
+The game ends when one player gets three of their symbols in a row, column, or diagonal, or when the game board is full with no winner (tie).<br>
 Winning:
 
 If a player gets three of their symbols in a row, column, or diagonal, they win the game.
-If the game board is full with no winner, it's a tie.
+If the game board is full with no winner, it's a tie.<br>
 Running the Game
 ## Prerequisites:
 
